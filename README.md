@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Agnes 👋
 
-<!--
-**Chanesk/chanesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analyst** and a **3rd-year Computer Science student**.
 
-Here are some ideas to get you started:
+I use data to help companies understand:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+→ **What happened**  
+→ **Why it happened**  
+→ **What could happen next**  
+→ **What they can do about it**
+
+My goal is simple: **turn data into clear insights and recommendations that help businesses make better decisions.**
+
+🔎 **Data Analysis** → Finding patterns and meaningful insights  
+📊 **Data Visualization** → Making insights easy to understand  
+💡 **Business Thinking** → Turning insights into actionable recommendations
+
+I'm currently building my skills through hands-on projects and exploring how data can solve real business problems.
+
+**Let's turn data into decisions. 🚀**
